@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+    <database name="hollywood">
+        <!-- Table movies -->
+        <table name="movies">
+            <column name="id">1</column>
+            <column name="title">The Matrix</column>
+            <column name="released">1999-01-01</column>
+            <column name="tagline">Welcome to the Real World</column>
+        </table>
+        <table name="movies">
+            <column name="id">2</column>
+            <column name="title">The Matrix Reloaded</column>
+            <column name="released">2003-01-01</column>
+            <column name="tagline">Free your mind</column>
+        </table>
+        <table name="movies">
+            <column name="id">3</column>
+            <column name="title">The Matrix Revolutions</column>
+            <column name="released">2003-01-01</column>
+            <column name="tagline">Everything that has a beginning has an end</column>
+        </table>
+        <table name="movies">
+            <column name="id">4</column>
+            <column name="title">The Devil's Advocate</column>
+            <column name="released">1997-01-01</column>
+            <column name="tagline">Evil has its winning ways</column>
+        </table>
+        <table name="movies">
+            <column name="id">5</column>
+            <column name="title">A Few Good Men</column>
+            <column name="released">1992-01-01</column>
+            <column name="tagline">In the heart of the nation's capital, in a courthouse of the U.S. government, one man will stop at nothing to keep his honor, and one will stop at nothing to find the truth.</column>
+        </table>
+        <table name="movies">
+            <column name="id">6</column>
+            <column name="title">Top Gun</column>
+            <column name="released">1986-01-01</column>
+            <column name="tagline">I feel the need, the need for speed.</column>
+        </table>
+        <table name="movies">
+            <column name="id">7</column>
+            <column name="title">Jerry Maguire</column>
+            <column name="released">2000-01-01</column>
+            <column name="tagline">The rest of his life begins now.</column>
+        </table>
+        <table name="movies">
+            <column name="id">8</column>
+            <column name="title">Stand By Me</column>
+            <column name="released">1995-01-01</column>
+            <column name="tagline">For some, it's the last real taste of innocence, and the first real taste of life. But for everyone, it's the time that memories are made of.</column>
+        </table>
+        <table name="movies">
+            <column name="id">9</column>
+            <column name="title">As Good as It Gets</column>
+            <column name="released">1997-01-01</column>
+            <column name="tagline">A comedy from the heart that goes for the throat.</column>
+        </table>
+        <table name="movies">
+            <column name="id">10</column>
+            <column name="title">What Dreams May Come</column>
+            <column name="released">1998-01-01</column>
+            <column name="tagline">After life there is more. The end is just the beginning.</column>
+        </table>
+        <table name="movies">
+            <column name="id">11</column>
+            <column name="title">Snow Falling on Cedars</column>
+            <column name="released">1999-01-01</column>
+            <column name="tagline">First loves last. Forever.</column>
+        </table>
+        <table name="movies">
+            <column name="id">12</column>
+            <column name="title">You've Got Mail</column>
+            <column name="released">1998-01-01</column>
+            <column name="tagline">At odds in life... in love on-line.</column>
+        </table>
+        <table name="movies">
+            <column name="id">13</column>
+            <column name="title">Sleepless in Seattle</column>
+            <column name="released">1993-01-01</column>
+            <column name="tagline">What if someone you never met, someone you never saw, someone you never knew was the only someone for you?</column>
+        </table>
+        <table name="movies">
+            <column name="id">14</column>
+            <column name="title">Joe Versus the Volcano</column>
+            <column name="released">1990-01-01</column>
+            <column name="tagline">A story of love, lava and burning desire.</column>
+        </table>
+        <table name="movies">
+            <column name="id">15</column>
+            <column name="title">When Harry Met Sally</column>
+            <column name="released">1998-01-01</column>
+            <column name="tagline">At odds in life... in love on-line.</column>
+        </table>
+        <table name="movies">
+            <column name="id">16</column>
+            <column name="title">That Thing You Do</column>
+            <column name="released">1996-01-01</column>
+            <column name="tagline">In every life there comes a time when that thing you dream becomes that thing you do</column>
+        </table>
+        <table name="movies">
+            <column name="id">17</column>
+            <column name="title">The Replacements</column>
+            <column name="released">2000-01-01</column>
+            <column name="tagline">Pain heals, Chicks dig scars... Glory lasts forever</column>
+        </table>
+        <table name="movies">
+            <column name="id">18</column>
+            <column name="title">RescueDawn</column>
+            <column name="released">2006-01-01</column>
+            <column name="tagline">Based on the extraordinary true story of one man's fight for freedom</column>
+        </table>
+        <table name="movies">
+            <column name="id">19</column>
+            <column name="title">The Birdcage</column>
+            <column name="released">1996-01-01</column>
+            <column name="tagline">Come as you are</column>
+        </table>
+        <table name="movies">
+            <column name="id">20</column>
+            <column name="title">Unforgiven</column>
+            <column name="released">1992-01-01</column>
+            <column name="tagline">It's a hell of a thing, killing a man</column>
+        </table>
+        <table name="movies">
+            <column name="id">21</column>
+            <column name="title">Johnny Mnemonic</column>
+            <column name="released">1995-01-01</column>
+            <column name="tagline">The hottest data on earth. In the coolest head in town</column>
+        </table>
+        <table name="movies">
+            <column name="id">22</column>
+            <column name="title">Cloud Atlas</column>
+            <column name="released">2012-01-01</column>
+            <column name="tagline">Everything is connected</column>
+        </table>
+        <table name="movies">
+            <column name="id">23</column>
+            <column name="title">The Da Vinci Code</column>
+            <column name="released">2006-01-01</column>
+            <column name="tagline">Break The Codes</column>
+        </table>
+        <table name="movies">
+            <column name="id">24</column>
+            <column name="title">V for Vendetta</column>
+            <column name="released">2006-01-01</column>
+            <column name="tagline">Freedom! Forever!</column>
+        </table>
+        <table name="movies">
+            <column name="id">25</column>
+            <column name="title">Speed Racer</column>
+            <column name="released">2008-01-01</column>
+            <column name="tagline">Speed has no limits</column>
+        </table>
+        <table name="movies">
+            <column name="id">26</column>
+            <column name="title">Ninja Assassin</column>
+            <column name="released">2009-01-01</column>
+            <column name="tagline">Prepare to enter a secret world of assassins</column>
+        </table>
+        <table name="movies">
+            <column name="id">27</column>
+            <column name="title">The Green Mile</column>
+            <column name="released">1999-01-01</column>
+            <column name="tagline">Walk a mile you'll never forget.</column>
+        </table>
+        <table name="movies">
+            <column name="id">28</column>
+            <column name="title">Frost/Nixon</column>
+            <column name="released">2008-01-01</column>
+            <column name="tagline">400 million people were waiting for the truth.</column>
+        </table>
+        <table name="movies">
+            <column name="id">29</column>
+            <column name="title">Hoffa</column>
+            <column name="released">1992-01-01</column>
+            <column name="tagline">He didn't want law. He wanted justice.</column>
+        </table>
+        <table name="movies">
+            <column name="id">30</column>
+            <column name="title">Apollo 13</column>
+            <column name="released">1995-01-01</column>
+            <column name="tagline">Houston, we have a problem.</column>
+        </table>
+        <table name="movies">
+            <column name="id">31</column>
+            <column name="title">Twister</column>
+            <column name="released">1996-01-01</column>
+            <column name="tagline">Don't Breathe. Don't Look Back.</column>
+        </table>
+        <table name="movies">
+            <column name="id">32</column>
+            <column name="title">Cast Away</column>
+            <column name="released">2000-01-01</column>
+            <column name="tagline">At the edge of the world, his journey begins.</column>
+        </table>
+        <table name="movies">
+            <column name="id">33</column>
+            <column name="title">One Flew Over the Cuckoo's Nest</column>
+            <column name="released">1975-01-01</column>
+            <column name="tagline">If he's crazy, what does that make you?</column>
+        </table>
+        <table name="movies">
+            <column name="id">34</column>
+            <column name="title">Something's Gotta Give</column>
+            <column name="released">1975-01-01</column>
+            <column name="tagline">NULL</column>
+        </table>
+        <table name="movies">
+            <column name="id">35</column>
+            <column name="title">Bicentennial Man</column>
+            <column name="released">1999-01-01</column>
+            <column name="tagline">One robot's 200 year journey to become an ordinary man.</column>
+        </table>
+        <table name="movies">
+            <column name="id">36</column>
+            <column name="title">Charlie Wilson's War</column>
+            <column name="released">2007-01-01</column>
+            <column name="tagline">A stiff drink. A little mascara. A lot of nerve. Who said they couldn't bring down the Soviet empire.</column>
+        </table>
+        <table name="movies">
+            <column name="id">37</column>
+            <column name="title">The Polar Express</column>
+            <column name="released">2004-01-01</column>
+            <column name="tagline">This Holiday Season… Believe</column>
+        </table>
+        <table name="movies">
+            <column name="id">38</column>
+            <column name="title">A League of Their Own</column>
+            <column name="released">1992-01-01</column>
+            <column name="tagline">Once in a lifetime you get a chance to do something different.</column>
+        </table>
+    </database>
