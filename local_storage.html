@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>local storage</title>
+
+</head>
+<body>
+
+	<input type="text" id="text">
+
+
+	<p id="input">Input Local Storage</p>
+	<p id="output">Read Local Storage</p>
+
+
+	<button onclick="intoLS()">Send value to Local Storage</button>
+	<button onclick="read()">Read value from Local Storage</button>
+
+<script>
+
+	
+		function intoLS() {
+			a = document.getElementById("text").value;
+			document.getElementById('input').innerHTML = a;
+			localStorage.setItem("first name", a);
+		}
+
+
+		function read() {
+			document.getElementById('output').innerHTML = a;
+			localStorage.getItem("first name");
+		}
+
+
+</script>
+
+
+
+
+	
+</body>
+</html>
